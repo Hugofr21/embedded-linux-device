@@ -1,0 +1,4 @@
+/mnt/c/Users/hugor/Desktop/embedded-linux-device/04-project/build/CMakeFiles/calculator.dir
+/mnt/c/Users/hugor/Desktop/embedded-linux-device/04-project/build/CMakeFiles/app.dir
+/mnt/c/Users/hugor/Desktop/embedded-linux-device/04-project/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/hugor/Desktop/embedded-linux-device/04-project/build/CMakeFiles/rebuild_cache.dir

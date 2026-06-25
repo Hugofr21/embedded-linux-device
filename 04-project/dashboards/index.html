@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>CI/CD KPIs</title>
+</head>
+
+<body>
+
+    <h1>Build Metrics</h1>
+
+    <pre id="data"></pre>
+
+    <script>
+        fetch("../metrics/kpis.json")
+            .then(r => r.json())
+            .then(data => {
+                document.getElementById("data").innerText =
+                    JSON.stringify(data, null, 4);
+            });
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/mnt/c/Users/hugor/Desktop/embedded-linux-device/04-project/build",
+  "command": "/usr/bin/c++ -I/mnt/c/Users/hugor/Desktop/embedded-linux-device/04-project/include -std=gnu++17 --coverage -o CMakeFiles/calculator.dir/src/calculator.cpp.o -c /mnt/c/Users/hugor/Desktop/embedded-linux-device/04-project/src/calculator.cpp",
+  "file": "/mnt/c/Users/hugor/Desktop/embedded-linux-device/04-project/src/calculator.cpp",
+  "output": "CMakeFiles/calculator.dir/src/calculator.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/hugor/Desktop/embedded-linux-device/04-project/build",
+  "command": "/usr/bin/c++ -I/mnt/c/Users/hugor/Desktop/embedded-linux-device/04-project/include -std=gnu++17 --coverage -o CMakeFiles/app.dir/src/main.cpp.o -c /mnt/c/Users/hugor/Desktop/embedded-linux-device/04-project/src/main.cpp",
+  "file": "/mnt/c/Users/hugor/Desktop/embedded-linux-device/04-project/src/main.cpp",
+  "output": "CMakeFiles/app.dir/src/main.cpp.o"
+}
+]
